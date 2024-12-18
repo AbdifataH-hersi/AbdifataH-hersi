@@ -1,4 +1,4 @@
-# Hi there, I'm [AbdifataH-hersi]! 👋
+# Hi there, I'm [AbdifataH-AHMED]! 👋
 
 Welcome to my GitHub profile! I am a passionate Full-Stack Developer with a knack for creating efficient, scalable, and user-friendly web and mobile applications. 🚀
 
