@@ -43,13 +43,12 @@ A fully responsive e-commerce platform using **React**, **NestJS**, and **MySQL*
 
 ## 🔗 Connect With Me
 - [Portfolio](#)
-- [LinkedIn](#)
+- [LinkedIn](https://www.linkedin.com/in/abdifatahahmed-7969a519a/)
 - [Twitter](#)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
 
 ---
-
 ### Fun Animation
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=F700FF&width=435&lines=Welcome+to+my+GitHub+Profile!;Let's+build+something+amazing!;Coding+is+my+superpower+%F0%9F%91%80)
 
